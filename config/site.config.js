@@ -50,16 +50,16 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/winkxx',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      link: 'https://t.me/winxry',
     },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
-  datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
+  datetimeFormat: '2022-03-10 20:29:10',
 }
